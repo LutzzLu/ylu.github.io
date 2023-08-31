@@ -3,15 +3,18 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Zhuoran
+first_name: Yunrui
 middle_name:
-last_name: Qiao
-email: zrqiao0@gmail.com
+last_name: Lu
+email: yunrui.lu@dartmouth.edu
 description: # the ">" symbol means to ignore newlines until "footer_text:"
   Physics-informed AI for biochemical discovery. Lead ML scientist @EntosAI.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+lang: en
+icon: 🔬
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -25,7 +28,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -52,7 +55,7 @@ research_gate_profile: Zhuoran_Qiao # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
-contact_note: 
+contact_note:
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
