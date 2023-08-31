@@ -129,8 +129,8 @@ plugins:
 
 scholar:
 
-  last_name: Lu
-  first_name: Yunrui
+  last_name: [Wu, Wu*]
+  first_name: [Kun, K., Kun*]
 
   style: apa
   locale: en
@@ -138,6 +138,10 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
+  # Note: if you have latex math in your bibtex, the latex filter
+  # preprocessing may conflict with MathJAX if the latter is enabled.
+  # See https://github.com/alshedivat/al-folio/issues/357.
+  bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
   join_strings: true
@@ -147,6 +151,29 @@ scholar:
   details_link: Details
 
   query: "@*"
+
+# scholar:
+#
+#   last_name: [Lu, Lu*]
+#   first_name: [Yunrui, Yunrui*]
+#
+#   style: apa
+#   locale: en
+#
+#   source: /_bibliography/
+#   bibliography: papers.bib
+#   bibliography_template: bib
+#
+#   bibtex_filters: [latex, smallcaps, superscript]
+#
+#   replace_strings: true
+#   join_strings: true
+#
+#   details_dir: bibliography
+#   details_layout: bibtex.html
+#   details_link: Details
+#
+#   query: "@*"
 
 # -----------------------------------------------------------------------------
 # Optional Features
