@@ -6,7 +6,9 @@ description:
 nav: true
 ---
 
-## Conference and seminar presentations
+* Invited talk on lecture
+
+<!-- ## Conference and seminar presentations
 
 * Invited talk on <a href="https://arxiv.org/abs/2209.15171">NeuralPLexer</a> at <a href="https://www.nvidia.com/en-us/clara/drug-discovery/">NVIDIA Clara Discovery</a> Show & Tell, Apr. 5, 2023
 
@@ -34,4 +36,4 @@ nav: true
 
 * (TA) Ch21c Spring 2019-2020, with Prof. Jack Beauchamp
 * (TA) Ch1b Winter 2019-2020, with Prof. Tom Miller
-* (TA) Ch1a Fall 2019-2020, with Prof. Nathan Lewis
+* (TA) Ch1a Fall 2019-2020, with Prof. Nathan Lewis -->
