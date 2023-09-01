@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Talks & Teaching
+title: Guest Lectures, Talks & Teaching
 description:
 nav: true
 ---
