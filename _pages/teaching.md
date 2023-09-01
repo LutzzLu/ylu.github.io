@@ -6,7 +6,21 @@ description:
 nav: true
 ---
 
-* Invited talk on lecture
+### Guest Lecture
+
+* **Dartmouth QBS177 Methods for Statistical Learning for Big Data**: Introduction to Neural Networks -- 2022
+
+### Talks
+
+* EDIT National Summer Research Program: Cell Type Specific Spatial Molecular, Elemental, Histological Signatures Associated with Tumor Metastasis -- 2023
+
+* EDIT National Summer Research Program: Deep Learning, Image Processing and Natural Language Processing -- 2023
+
+* EDIT National Summer Research Program: Introduction to Natural Language Processing -- 2022
+
+### Teaching Assistant
+
+* **Dartmouth QBS181 Data Wrangling**: Teaching Assistant -- 2022
 
 <!-- ## Conference and seminar presentations
 
