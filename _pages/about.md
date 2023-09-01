@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Physics-Informed AI for Biochemical Discovery.
+description: AI Powered Pathology and Oncology
 
 profile:
   align: left
@@ -13,6 +13,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
 ---
+
+I'm a Research Assistant at DHMC.
 
 I am a Lead Machine Learning Scientist at <a href="https://www.entos.ai/about">Entos, Inc</a>. I earned my Ph.D. degree in chemistry from <a href="https://cce.caltech.edu/">Caltech CCE</a> (<a href="https://thesis.library.caltech.edu/15077">Thesis</a>), where I was fortunately advised by <a href="http://tensorlab.cms.caltech.edu/users/anima/group.html">Prof. Anima Anandkumar</a> and <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Prof. Thomas Miller</a>.  My research centers around developing physics-driven geometric learning approaches to tackle complex problems in chemistry and chemical biology, especially for the study of electronic structure and dynamics out of equilibrium.
 
