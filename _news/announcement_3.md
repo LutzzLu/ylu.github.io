@@ -1,7 +1,7 @@
 ---
 layout: post
 title: post 3
-date: 2023-08-31 16:00:00-0400
+date: 2023-09-02 16:00:00-0400
 inline: ture
 ---
 
