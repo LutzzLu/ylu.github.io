@@ -5,4 +5,4 @@ date: 2023-08-31 16:00:00-0400
 inline: ture
 ---
 
-I will join Department of Computational Biomedicine at Cedars-Sinai Medical Center in Los Angeles, CA as Research Assistant in Dec 2023!
+I will join Department of Computational Biomedicine at **Cedars-Sinai Medical Center** in Los Angeles, CA as Research Assistant in Dec 2023!
