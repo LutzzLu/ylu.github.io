@@ -12,6 +12,12 @@ nav: true
 
 ### Talks
 
+* Dartmouth Computational & Quantitative Biology Annual Meeting： VirtualRNA and VirtualProtein: Virtual Staining Tools to Infer Spatial Molecular Information From H&E WSI --2023
+
+* Dartmouth Computational & Quantitative Biology Annual Meeting： Cell-Type Specific Spatial Molecular, Elemental and Histological Signatures Associated with Tumor Metastasis --2023
+
+* Dartmouth Computational & Quantitative Biology Annual Meeting： Interpretable Multimodal and Crossmodal Deep Learning for Improved Cancer Pathology Analysis --2023
+
 * EDIT National Summer Research Program: Cell Type Specific Spatial Molecular, Elemental, Histological Signatures Associated with Tumor Metastasis -- 2023
 
 * EDIT National Summer Research Program: Deep Learning, Image Processing and Natural Language Processing -- 2023
