@@ -5,4 +5,4 @@ date: 2023-04-05 16:00:00-0400
 inline: ture
 ---
 
-I gave 3 poster presentations at Computational & Quantitative Biology Annual Meeting 2023
+I did 3 poster presentations at Computational & Quantitative Biology Annual Meeting 2023
