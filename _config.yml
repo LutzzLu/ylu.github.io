@@ -154,8 +154,8 @@ plugins:
 
 scholar:
 
-  last_name: [Lu, Lu*, Yunrui*]
-  first_name: [Yunrui, Yunrui*, Lu]
+  last_name: [Yunrui*]
+  first_name: [Lu]
 
   style: apa
   locale: en
